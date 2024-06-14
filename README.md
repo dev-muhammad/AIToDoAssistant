@@ -22,8 +22,8 @@ You can view the slides from the presentation [here](Resources/Slides.pdf).
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AITodoAssistant.git
-cd AITodoAssistant
+git clone https://github.com/dev-muhammad/AIToDoAssistant.git
+cd TodoAssistant
 ```
 
 
